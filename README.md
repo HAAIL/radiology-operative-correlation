@@ -1,4 +1,4 @@
-# Towards Automating the Quality Control in Radiology: Leveraging Large Language Models to Extract Correlative Findings in Radiology and Operative Reports
+## Towards Automating the Quality Control in Radiology: Leveraging Large Language Models to Extract Correlative Findings in Radiology and Operative Reports
 
 
 
